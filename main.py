@@ -1,13 +1,3 @@
-# Extract
-# Importar e ler o arquivo .xlsx
-
-# Transform
-# Separar as avaliações em 3 níveis: Acima de 9.5 = Excelente / De 8.5 - 9.5 = Bom / Até 8.0 = Precisa melhorar
-# Usar a API openai para montar frases personalizadas para cada funcionário
-
-# Load
-# Subir o repositório no GitHub
-
 import pandas as pd
 import requests
 import json
